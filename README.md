@@ -27,9 +27,9 @@ See the [User's Guide](UsersGuide.md) for downloads, installation and usage.
 
 ## Statistics
 
-![Pascal](https://img.shields.io/badge/Language-Pascal-EE1F35?labelColor=555555)
-![IDE](https://img.shields.io/badge/IDE-Delphi%20RAD%20Studio-EE1F35?labelColor=555555)
-![MDB](https://img.shields.io/badge/File-MDB-5C2D91?labelColor=555555)
+![Pascal](https://img.shields.io/badge/Language-Pascal-blue)
+![IDE](https://img.shields.io/badge/IDE-Delphi%20RAD%20Studio-purple)
+![MDB](https://img.shields.io/badge/File-MDB-yellow)
 <br>
 ![status](https://img.shields.io/badge/status-on%20hold-yellow) 
 ![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/RemusRigo/AddressBook-Access-Delphi/total)
